@@ -1,4 +1,7 @@
 # vscode-scss-auto-compile
+This is a demo project shows how to cofigure VSCode to watch static files changes(*.scss|.js|*.html etc), automate compile scss to css, and let Chorme do live-reload. 
+
+# Get start
 1. Run npm install
 2. Run gulp watch
 
